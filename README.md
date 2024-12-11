@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Supratim Dey</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from Coder Community</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/supratimsd/supratimsd/assets/115398638/b69a430f-5423-40cc-84e7-9ecd7963b406">
 
